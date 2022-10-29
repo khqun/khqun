@@ -1,4 +1,3 @@
 ### Hi there 👋
-- 🌱 I’m currently learning:  <a href="#">
-    <img src="help/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>  
+- 🌱 I’m currently learning:  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- 🎮 Gaming: Steam
